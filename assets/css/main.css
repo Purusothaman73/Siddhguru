@@ -12087,7 +12087,7 @@ input.main-search-input::placeholder {
 }
 .facts-wrapper.style1 .facts-box-wrapper.style1 {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(6, 1fr);
 }
 .facts-wrapper.style1 .facts-box-wrapper.style1 .facts-box:nth-child(even) {
   margin-top: 160px;
