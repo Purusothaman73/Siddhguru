@@ -5380,7 +5380,7 @@ input.main-search-input::placeholder {
 .footer-top .fancy-box .item2 p {
   color: var(--white);
   font-family: "Plus Jakarta Sans", system-ui;
-  font-size: 20px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 500;
   line-height: normal;
@@ -9882,7 +9882,7 @@ input.main-search-input::placeholder {
   color: var(--white);
   text-align: center;
   font-family: "Plus Jakarta Sans", system-ui;
-  font-size: 24px;
+  font-size: 17px;
   font-style: normal;
   font-weight: 700;
   line-height: 30px;
