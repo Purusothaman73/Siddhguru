@@ -2459,7 +2459,7 @@ input[type=radio]:checked ~ label::before {
 }
 @media (max-width: 1399px) {
   .section-title h2 {
-    font-size: 38px;
+    font-size: 36px;
     line-height: 48px;
   }
 }
