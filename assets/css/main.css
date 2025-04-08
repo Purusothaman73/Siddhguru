@@ -66,6 +66,7 @@ Description: Florem - Flooring & Tiling Figma Template <
   --theme: #C7844F;
   --theme2: #F9F3EF;
   --theme3: #8A5133;
+  --theme4: #cd184e;
   --title: #2B1E16;
   --orange: #e78c45;
   --text: #687179;
@@ -3293,7 +3294,7 @@ input[type=radio]:checked ~ label::before {
   width: 6px;
   height: 6px;
   z-index: 10000001;
-  background-color: var(--theme2);
+  background-color: var(--theme4);
   transition: width 0.3s ease-in-out, height 0.3s ease-in-out, margin 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
 .cursor-inner.cursor-hover {
@@ -3301,7 +3302,7 @@ input[type=radio]:checked ~ label::before {
   margin-top: -35px;
   width: 70px;
   height: 70px;
-  background-color: var(--theme2);
+  background-color: var(--theme4);
   opacity: 0.3;
 }
 
@@ -3310,7 +3311,7 @@ input[type=radio]:checked ~ label::before {
   margin-top: -12px;
   width: 30px;
   height: 30px;
-  border: 1px solid var(--theme2);
+  border: 1px solid var(--theme4);
   box-sizing: border-box;
   z-index: 10000000;
   opacity: 0.5;
